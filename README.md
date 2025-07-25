@@ -42,7 +42,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Abhay-Kanwasi/Full-stack-Ecommerce-Website
+   git clone https://github.com/Anilkumar-Gorantla/Full-stack-Ecommerce-Website
    cd your-repo
    ```
 
