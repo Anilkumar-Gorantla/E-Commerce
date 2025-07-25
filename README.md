@@ -69,7 +69,7 @@ Access the website in your web browser at http://localhost:8000/
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
 
 ## Author
-Abhay Kanwasi
+Anilkumar
 
 ## Acknowledgments
 Thanks to the Django community for their excellent framework.
